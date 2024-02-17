@@ -1,0 +1,17 @@
+hello. this is to practice the use of github.
+
+everything will be okay!
+
+i heard that asking for reassurance constantly can quickly become a compulsion.
+
+<<<<<<< HEAD
+friendship discourse
+
+git branches are effectively a pointer to a snapshot of your changes
+=======
+a branch represents the tip of a series of commits
+
+this makes it hard for unstable code to get merged into the main code base
+
+git commit lang 
+>>>>>>> new_branch
